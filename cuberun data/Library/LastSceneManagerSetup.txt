@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Sony/Documents/DTU Gameathon19'/Assets/level01.unity
+  isLoaded: 1
+  isActive: 1
